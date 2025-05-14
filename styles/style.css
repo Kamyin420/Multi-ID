@@ -68,7 +68,7 @@ h2 {
    font-style  : italic;
    font-weight : medium;
    color: #1E1E1E ;
-   margin-top: 20px;
+   margin-top: 30px;
    margin-left: 140px;
    margin-right:20px;
 }
@@ -104,4 +104,74 @@ ul {
 .footerruimte img {
     width: 100vw;
     margin: 0;
+}
+
+.blokkie {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.blokkie h2 {
+    margin-bottom: -20px ;
+    margin-left: 10px;
+    color: #1E1E1E ;
+    text-shadow: none;
+}
+
+.titel {
+    width: 65vw;
+}
+
+.blokkie h1{
+    color: #1E1E1E ;
+    text-shadow: none;
+    font-size: 30px;
+
+   
+}
+
+.blokkie img{
+    width: 45vw;
+    height: auto;
+    margin-right: 20px;
+}
+
+h3 {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+   Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-size: 18px;
+   font-style  : italic;
+   font-weight : bold;
+   color: #1E1E1E ;
+   text-align: right;
+   margin-right: 20px;
+   margin-top: 40px;
+}
+
+h4 {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+   Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-size: 18px;
+   font-style  : italic;
+   font-weight : bold;
+   color: #1E1E1E ;
+   margin-top: 40px;
+   margin-left: 5%;
+}
+
+.tekst3 {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+   Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-size: 12px;
+   font-style  : italic;
+   font-weight : bold;
+   color: #1E1E1E ;
+   margin-top: 40px;
+   margin-left: 5%;
+   margin-right:35%;
+   margin-bottom: 15%;
 }
