@@ -35,6 +35,20 @@ h1 {
 
 }
 
+h2 {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+   Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-size: 18px;
+   font-style  : italic;
+   font-weight : bold;
+   color: #1E1E1E ;
+   text-shadow: 1px 1px 0px #00B8B8;
+   margin-top: 20px;
+   margin-left: 10%;
+   margin-right:30px;
+
+}
+
 .tekst1 {
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
    Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -54,7 +68,35 @@ h1 {
    font-style  : italic;
    font-weight : medium;
    color: #1E1E1E ;
-   margin-top: 10px;
+   margin-top: 20px;
    margin-left: 140px;
    margin-right:20px;
+}
+
+.flex1 {
+    display: flex;
+
+}
+
+.button {
+    width: 120px;
+    height: 35px;
+    background-color: #FF4747;
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: 15px;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 40px;
+    margin-top: 20px;
 }
