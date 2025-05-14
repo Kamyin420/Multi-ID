@@ -100,3 +100,8 @@ ul {
     margin-bottom: 40px;
     margin-top: 20px;
 }
+
+.footerruimte img {
+    width: 100vw;
+    margin: 0;
+}
